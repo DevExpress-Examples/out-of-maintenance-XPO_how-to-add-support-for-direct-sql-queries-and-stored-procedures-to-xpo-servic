@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XpoHelper.cs](./CS/Client/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/Client/XpoHelper.vb))
+* [CommandChannelServiceDataStore.cs](./CS/CommanChannelServiceDataStore/CommandChannelServiceDataStore.cs) (VB: [CommandChannelServiceDataStore.vb](./VB/CommanChannelServiceDataStore/CommandChannelServiceDataStore.vb))
+* [CommandChannelService.cs](./CS/XpoCommandChannelService/CommandChannelService.cs) (VB: [CommandChannelService.vb](./VB/XpoCommandChannelService/CommandChannelService.vb))
+* [Global.asax](./CS/XpoCommandChannelService/Global.asax) (VB: [Global.asax](./VB/XpoCommandChannelService/Global.asax))
+* [StoredProcedureArgument.cs](./CS/XpoCommandChannelService/StoredProcedureArgument.cs) (VB: [StoredProcedureArgument.vb](./VB/XpoCommandChannelService/StoredProcedureArgument.vb))
+<!-- default file list end -->
 # How to add support for direct SQL queries and stored procedures to XPO service
 
 
