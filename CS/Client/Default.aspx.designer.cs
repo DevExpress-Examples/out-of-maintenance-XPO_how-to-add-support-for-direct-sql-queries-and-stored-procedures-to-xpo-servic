@@ -37,7 +37,7 @@ public partial class _Default {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxEditors.ASPxComboBox customersCombo;
+    protected global::DevExpress.Web.ASPxComboBox customersCombo;
     
     /// <summary>
     /// ordersView control.
@@ -46,5 +46,5 @@ public partial class _Default {
     /// Auto-generated field.
     /// To modify move field declaration from designer file to code-behind file.
     /// </remarks>
-    protected global::DevExpress.Web.ASPxGridView.ASPxGridView ordersView;
+    protected global::DevExpress.Web.ASPxGridView ordersView;
 }
