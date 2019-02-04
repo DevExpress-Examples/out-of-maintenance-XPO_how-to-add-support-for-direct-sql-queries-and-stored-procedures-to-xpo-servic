@@ -3,7 +3,7 @@ using DXSample.BO;
 using System.Web.UI;
 using DevExpress.Xpo;
 using DevExpress.Data.Filtering;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using DXSample.Client;
 
 public partial class _Default : Page 
